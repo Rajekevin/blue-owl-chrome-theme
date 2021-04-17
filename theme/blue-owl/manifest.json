@@ -1,0 +1,38 @@
+{
+	"name": "Blue Owl Chrome Theme",
+	"description": "Blue Owl — A magical theme with deep blue for Google Chrome Browser.",
+	"manifest_version": 2,
+	"version": "1.0.0",
+	"icons": {
+		"16": "icon/icon-16.png",
+		"48": "icon/icon-48.png",
+		"96": "icon/icon-96.png",
+		"128": "icon/icon-128.png"
+	},
+
+	"theme": {
+		"colors": {
+			"frame": [0,153,255],
+			"frame_inactive": [0,153,255],
+			"frame_incognito": [41, 128, 185],
+			"frame_incognito_inactive": [0,153,255],
+			"ntp_background": [45, 152, 218],
+			"toolbar": [0,153,255],
+			"tab_text": [255, 255, 255],
+			"tab_background_text": [255,255,255],
+			"bookmark_text": [255,255,255],
+			"tab_background_text_incognito": [41, 128, 185],
+			"tab_background_text_incognito_inactive": [41, 128, 185],
+			"ntp_text": [255,255,255],
+			"background_tab": [45, 152, 218],
+			"background_tab_inactive": [45, 152, 218],
+			"background_tab_incognito": [0,153,255],
+			"background_tab_incognito_inactive": [0,153,255],
+			"tab_background_text_inactive": [41, 128, 185],
+			"toolbar_button_icon": [254, 211, 48]
+		},
+		"tints": {
+			"buttons": [0.69, 0.65, 0.76]
+		}
+	}
+}
