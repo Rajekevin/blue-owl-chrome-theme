@@ -20,11 +20,11 @@
 
 - **RECOMMENDED**: [Download from Google Chrome Store][c]
 
-- **OR**: Use the [unpacked version](./theme/shades-of-purple)
+- **OR**: Use the [unpacked version](./theme/blue-owl)
   1. Navigate to `chrome://extensions`
   2. Enable `Developer mode` <small>(top-right corner)</small>
   3. Click on <kbd>Load unpacked</kbd> button <small>(top-left corner)</small>
-  4. Select the [`theme/shades-of-purple`](./theme/shades-of-purple) folder and done
+  4. Select the [`theme/blue-owl`](./theme/blue-owl) folder and done
 
 <br>
 
@@ -37,7 +37,7 @@
 
 ## License & Conduct
 
-- MIT © [Ahmad Awais](https://twitter.com/Rajekevin/)
+- MIT © [Rajekevin DOUREPOULLE](https://twitter.com/Rajekevin/)
 - [Code of Conduct](code-of-conduct.md)
 
 <br>
