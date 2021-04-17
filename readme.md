@@ -28,32 +28,16 @@
 
 <br>
 
-[![Shades of Purple for Google Chrome](https://github.com/ahmadawais/shades-of-purple-google-chrome/raw/master/.github/shades-of-purple-chrome.jpg)][s]
-
-<br>
-
-[![📝](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/log.png)](changelog.md)
-
 ## Changelog
 
 [❯ Read the changelog here →](changelog.md)
 
 <br>
 
-<small>**KEY**: `📦 NEW`, `👌 IMPROVE`, `🐛 FIX`, `📖 DOC`, `🚀 RELEASE`, and `🤖 TEST`
-
-> _I use [Emoji-log](https://github.com/ahmadawais/Emoji-Log), you should try it and simplify your git commits._
-
-</small>
-
-<br>
-
-[![📃](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/license.png)](./../../)
 
 ## License & Conduct
 
-- MIT © [Ahmad Awais](https://twitter.com/MrAhmadAwais/)
-- Thanks for initial theme and help [demartini](https://github.com/demartini)
+- MIT © [Ahmad Awais](https://twitter.com/Rajekevin/)
 - [Code of Conduct](code-of-conduct.md)
 
 <br>
@@ -63,7 +47,7 @@
 ## Connect
 
 <div align="left">
-    <p><a href="https://github.com/Rajekevin"><img alt="GitHub Rajekevin" align="center" src="https://img.shields.io/badge/GITHUB-gray.svg?colorB=6cc644&style=flat" /></a>&nbsp;<small><strong>(follow)</strong> To stay up to date on free & open-source software</small></p>
+    <p><a href="https://github.com/Rajekevin"><img alt="GitHub Rajekevin" align="center" src="https://img.shields.io/badge/GITHUB-gray.svg?colorB=6cc644&style=flat" /></a>&nbsp;<small><strong>(follow)</strong>
     <p><a href="https://twitter.com/iamrkvin/"><img alt="Twitter @iamrkvin" align="center" src="https://img.shields.io/badge/TWITTER-gray.svg?colorB=1da1f2&style=flat" /></a>&nbsp;
 </div>
 
